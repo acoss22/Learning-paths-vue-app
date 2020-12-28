@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # vue-first-app
 
 ## Project setup
@@ -32,3 +33,7 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# Learning-paths-vue-app
+a learning paths type of platform website made with vue 3 
+>>>>>>> 5090a0594b665258fa57031794069b7ef0caa0e2
